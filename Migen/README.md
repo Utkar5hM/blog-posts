@@ -15,7 +15,7 @@ tags:
 - LiteX
 categories:
 - Diode
-github_username: 'utkar5hM'
+github_username: 'Utkar5hM'
 ---
 
 # Working with Migen | Python based Hardware Description Language(HDL)
