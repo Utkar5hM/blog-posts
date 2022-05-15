@@ -21,6 +21,11 @@ github_username: 'Utkar5hM'
 # Working with Migen | Python based Hardware Description Language(HDL)
 
 ## Introduction
+
+In digital design, the complexity of designing a circuit gave birth to standard languages to describe digital circuits (i.e. Hardware Description Languages - HDL).  HDLs are used to model hardware elements very concurrently. Verilog HDL and VHDL are the most popular HDLs.
+
+Digital circuits are described at Registers Transfer Level (RTL) using HDL. Then logic synthesis tool will generate details of gates and interconnection to implement courses. This synthesized result can be used for fabrication by having placement and routing components, and later its functionality can be verified using simulation.
+
 Since the creation of traditional hardware descriptive languages(HDL) like Verilog and VHDL, there have not been many improvements.
 They are old and provide a nonintuitive way to design hardware. 
 
